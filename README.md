@@ -16,14 +16,18 @@ It provides insights into sales trends, profit distribution, and customer segmen
 ---
 
 ## 📂 Files in Repository
-- `SuperStore_Sales_Dataset.csv` → Dataset file  
-- `SuperStore Sales DataSet.xlsx` → Cleaned Excel version  
-- `BETTER.pbix` → Power BI report  
+
+- **SuperStore_Sales_Dataset.csv** → Raw dataset file  
+- **SuperStore_Sales_Dataset.xlsx** → Cleaned Excel version  
+- **SuperStore_Sales_Report.pbix** → Power BI Dashboard file  
+- **image_SuperStore_Sales_dashboard.png** → Project Dashboard Preview Image  
+
+
 
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](image.png)
+![Dashboard Preview](<img width="1280" height="714" alt="image Superstore-Sales-Dashboard" src="https://github.com/user-attachments/assets/ca06d09d-4829-463e-8e02-49f41b48aed8" />)
 
 ---
 
