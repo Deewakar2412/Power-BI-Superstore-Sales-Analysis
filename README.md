@@ -1,17 +1,76 @@
-# 📊 SuperStore Sales Analysis
+# 📊 SuperStore Sales Analysis (Power BI)
 
-This project analyzes the **SuperStore Sales Dataset** using **Power BI & Excel**.  
-It provides insights into sales trends, profit distribution, and customer segments.
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-orange)  
+![Level](https://img.shields.io/badge/Level-Beginner-green)  
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ---
 
-## 🚀 Project Overview
-- Built with: Power BI, Excel  
-- Dataset: SuperStore Sales Dataset  
-- Features:
-  - Sales and profit trend analysis  
-  - Category and region-wise performance  
-  - Interactive dashboards  
+## 📑 Table of Contents
+
+* [Project Overview](#-project-overview)
+* [Objectives](#-objectives)
+* [Project Structure](#-project-structure)
+* [Dashboard & Insights](#-dashboard--insights)
+* [Findings](#-findings)
+* [Files in Repository](#-files-in-repository)
+* [How to Use](#-how-to-use)
+* [Author](#-author)
+* [License](#-license)
+
+---
+
+## 📌 Project Overview
+
+**Project Title**: SuperStore Sales Analysis  
+**Level**: Beginner (Data Visualization)  
+**Tool**: Power BI  
+
+This project demonstrates **Power BI visualization skills** using the SuperStore dataset.  
+The dashboard provides insights into **sales performance, profit trends, shipping modes, payment methods, and customer segments**.  
+
+---
+
+## 🎯 Objectives
+
+1. Build an interactive **Power BI dashboard** for SuperStore Sales.  
+2. Perform **data cleaning** and preprocessing in Excel.  
+3. Visualize key metrics: Sales, Profit, Returns, Categories, Segments.  
+4. Provide actionable insights for business decision-making.  
+
+---
+
+## 🗂️ Project Structure
+
+1. **Dataset**: Sales transactions including category, sub-category, region, ship mode, and payment method.  
+2. **Data Cleaning**: Null handling, formatting, category standardization (Excel).  
+3. **Dashboard**: Interactive Power BI visuals with slicers and KPIs.  
+
+---
+
+## 📊 Dashboard & Insights
+
+### 🔹 Dashboard Preview
+![Sales Dashboard](image%20Superstore-Sales-Dashboard.png)
+
+### 🔹 Key Visuals
+- Sales by Segment  
+- Sales by Category & Sub-Category  
+- Sales by Ship Mode  
+- Sales by Payment Mode  
+- Profit by Month & Year  
+- Sales Trend by Month & Year  
+- Region-wise Filter  
+
+---
+
+## 🔎 Findings
+
+- **Consumer segment** contributes the maximum sales.  
+- **COD** is the most popular payment mode (44%).  
+- **Standard Class** shipping dominates, followed by Second Class.  
+- **Technology & Office Supplies** generate the highest revenue.  
+- Profit fluctuates across months, peaking in certain quarters.  
 
 ---
 
@@ -20,23 +79,13 @@ It provides insights into sales trends, profit distribution, and customer segmen
 - **SuperStore_Sales_Dataset.csv** → Raw dataset file  
 - **SuperStore_Sales_Dataset.xlsx** → Cleaned Excel version  
 - **SuperStore_Sales_Report.pbix** → Power BI Dashboard file  
-- **image_SuperStore_Sales_dashboard.png** → Project Dashboard Preview Image  
-
-
+- **image Superstore-Sales-Dashboard.png** → Dashboard Preview Image  
 
 ---
 
-## 📸 Dashboard Preview
-![Dashboard Preview](<img width="1280" height="714" alt="image Superstore-Sales-Dashboard" src="https://github.com/user-attachments/assets/ca06d09d-4829-463e-8e02-49f41b48aed8" />)
+## 🚀 How to Use
 
----
+1. Clone the repository:  
 
-## 📝 How to Use
-1. Download the `.pbix` file and open it in **Power BI Desktop**.  
-2. Explore interactive dashboards.  
-3. Modify dataset (`.csv` or `.xlsx`) for new insights.  
-
----
-
-## 📌 Author
-**Deewakar Kumar** 
+   ```bash
+   git clone https://github.com/your-username/SuperStore-Sales-Analysis.git
