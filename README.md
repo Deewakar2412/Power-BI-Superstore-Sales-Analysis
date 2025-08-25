@@ -89,3 +89,12 @@ The dashboard provides insights into **sales performance, profit trends, shippin
 
    ```bash
    git clone https://github.com/your-username/SuperStore-Sales-Analysis.git
+
+---
+
+## 👤 Author  
+**Deewakar Kumar**  
+📧 Email: [deewakar2412@gmail.com](mailto:deewakar2412@gmail.com)  
+📍 Bokaro, Jharkhand, India  
+
+---
