@@ -39,5 +39,4 @@ It provides insights into sales trends, profit distribution, and customer segmen
 ---
 
 ## 📌 Author
-**Deewakar Kumar**  
-(Placement Preparation Project 🚀)
+**Deewakar Kumar** 
